@@ -1,0 +1,4 @@
+#!/bin/bash
+please study carefully
+dont waste the time
+
